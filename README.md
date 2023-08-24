@@ -5,8 +5,8 @@ This is done using HTML CSS and JAVASCRIPT. it a live search filter that use nam
 
 <h5>Screenshot 1</h5>
 
-![first](screenshots/1.PNG)
+![first](screenshot/1.PNG)
 
 <h5>Screenshot 2</h5>
 
-![second](screenshots/2.PNG)
+![second](screenshot/2.PNG)
